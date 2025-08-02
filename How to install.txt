@@ -1,0 +1,15 @@
+search in file, %APPDATA%\QtProject\qtcreator
+create two folders,
+1. themes 2. styles
+
+for example Dracula,
+move this drakula.creatortheme, drakula.figmatokens to themes
+dracula.xml to styles
+
+go to qt and change text and theme for match styles
+
+2nd option 
+go to all folder
+copy and paste it here %APPDATA%\QtProject\qtcreator
+
+design dark theme + vscode dark 2 is best
